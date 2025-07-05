@@ -28,8 +28,8 @@ url: https://uvacryptoreadinggroup.github.io
 github:
   username: UVACryptoReadingGroup # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,8 +38,8 @@ social:
   email: uva.cryptogroup@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # - https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/UVACryptoReadingGroup # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -217,10 +217,11 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [categories, tags]
+  # enabled: [categories, tags]
+  enabled: [tags]
   layouts:
-    category: category
+    # category: category
     tag: tag
   permalinks:
     tag: /tags/:name/
-    category: /categories/:name/
+    # category: /categories/:name/
