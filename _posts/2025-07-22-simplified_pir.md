@@ -6,7 +6,7 @@ date: 2025-07-22 00:27:00 -0400
 #   - Blogging
 #   - Tutorial
 tags: [PIR]
-pin: true
+pin: false
 math: true
 render_with_liquid: false
 ---
