@@ -1,7 +1,7 @@
 ---
 title: Simulating Time With Square-Root Space
 author: Wei-Kai
-date: 2025-08-26 00:27:00 -0400
+date: 2025-08-24 00:27:00 -0400
 # categories:
 #   - Blogging
 #   - Tutorial
