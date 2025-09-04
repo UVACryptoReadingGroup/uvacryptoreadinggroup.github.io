@@ -1,11 +1,11 @@
 ---
-title: Construction of set system
+title: Construction of Set Systems
 author: Jinye
 date: 2025-09-02 00:27:00 -0400
 # categories:
 #   - Blogging
 #   - Tutorial
-tags: [PIR][MVF]
+tags: [PIR]
 pin: false
 math: true
 render_with_liquid: false
