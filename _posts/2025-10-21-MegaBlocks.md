@@ -1,5 +1,5 @@
 ---
-title: MegaBlocks: Breaking the Logarithmic I/O-Overhead Barrier for Oblivious RAM
+title: 'MegaBlocks: Breaking the Logarithmic I/O-Overhead Barrier for Oblivious RAM'
 author: Wei-Kai
 date: 2025-10-21 00:27:00 -0400
 # categories:
